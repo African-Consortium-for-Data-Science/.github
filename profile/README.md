@@ -1,13 +1,8 @@
 
 
 
-<a align="right" href="http://aims.ac.za/">
+<a align="right" href="https://github.com/Consortium-Africain-pour-la-Sci-Don/.github">
 <img src="https://imgur.com/jwqFDsr.png" width="200" height="40" />
-</a>
-
-
-<a align="right" href="http://aims.ac.za/">
-<img src="https://imgur.com/gVcW5to.png" width="200" height="40" />
 </a>
 
 
