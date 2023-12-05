@@ -1,12 +1,4 @@
 
-<div align="right" class="container" data-name="#4 - France">
-  <div class="flag andorra">
-         <img src="https://imgur.com/jwqFDsr.png" class="france__logo" width="200" height="40" alt="france" href="aims.ac.za" />
-  </div>
-</div>
-
-
-
 
 
 <a align="right" href="http://aims.ac.za/">
@@ -14,14 +6,11 @@
 </a>
 
 
+<a align="right" href="http://aims.ac.za/">
+<img src="https://imgur.com/gVcW5to.png" width="200" height="40" />
+</a>
 
 
-
-<div align="right" class="container" data-name="#4 - Englang">
-  <div class="flag andorra">
-    <img src="https://imgur.com/gVcW5to.png" class="englang__logo" width="200" height="40" alt="england" />
-  </div>
-</div>
 
 
 
@@ -67,4 +56,10 @@ ACoDS is committed to inclusivity, accessibility, and continuous professional de
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<div align="right" class="container" data-name="#4 - France">
+  <div class="flag andorra">
+         <img src="https://imgur.com/jwqFDsr.png" class="france__logo" width="200" height="40" alt="france" href="aims.ac.za" />
+  </div>
+</div>
+
 -->
