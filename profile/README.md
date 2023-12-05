@@ -9,7 +9,7 @@
 
 
 
-<a align="right" href="https//www.aims.ac.za">
+<a align="right" href="http://aims.ac.za/">
 <img src="https://imgur.com/jwqFDsr.png" width="200" height="40" />
 </a>
 
