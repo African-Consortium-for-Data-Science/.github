@@ -8,8 +8,6 @@
 
 
 
-
-
 ## Hi there 👋, we are the The African Consortium for Data Science (ACfDS)       
 
 
