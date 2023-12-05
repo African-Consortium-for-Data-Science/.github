@@ -1,4 +1,11 @@
-## Hi there 👋, we are the The African Consortium for Data Science (ACoDS)
+
+
+## Hi there 👋, we are the The African Consortium for Data Science (ACfDS)       
+
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/<country code>.svg" alt="made in <FR>">
+</a>
+
 
 
 * Mission:
