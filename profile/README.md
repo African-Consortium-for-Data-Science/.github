@@ -2,11 +2,6 @@
 
 ## Hi there 👋, we are the The African Consortium for Data Science (ACfDS)       
 
-<a href="https://github.com/pedromxavier/flag-badges">
-    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/<country code>.svg" alt="made in <FR>">
-</a>
-
-
 
 * Mission:
 The African Consortium for Data Science (ACoDS) is dedicated to fostering collaboration, innovation, and excellence in data science across the African continent. Our mission is to empower individuals, institutions, and nations with the knowledge and skills necessary to harness the transformative potential of data.
